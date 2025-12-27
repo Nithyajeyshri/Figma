@@ -370,9 +370,11 @@ Figma
 </html>
 ```
 # OUTPUT:
+
 <img width="404" height="828" alt="Screenshot 2025-10-04 141658" src="https://github.com/user-attachments/assets/c8caefe3-6b1a-46b5-9bcd-1cc8fb346d4b" />
 <img width="343" height="743" alt="Screenshot 2025-10-04 143538" src="https://github.com/user-attachments/assets/98aaada6-6e44-4fc1-8b38-e8fbf6588559" />
 <img width="329" height="708" alt="Screenshot 2025-10-04 181921" src="https://github.com/user-attachments/assets/8b635017-8fcb-4baf-b941-c515bc188394" />
 <img width="365" height="779" alt="Screenshot 2025-10-04 205857" src="https://github.com/user-attachments/assets/78bdfb09-d8bd-4e63-9be0-de8da04132d1" />
+
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
